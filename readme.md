@@ -4,4 +4,5 @@ The project covers techniques of processing image data with packages Coco, album
 
 The project was created to practice object-oriented image data processing and apply dynamic drawing boxes.
 
-It's a learning project to get better understanding of fine-tuning for preexisting solutions isntead of creating new model from scratch.
+The architecture used here is Recurrent Convolutional Neural Network.
+
